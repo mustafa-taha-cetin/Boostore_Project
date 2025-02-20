@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\bin\Debug\operatorler.exe.config
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\bin\Debug\operatorler.exe
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\bin\Debug\operatorler.pdb
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.Form1.resources
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.exe
+C:\Users\USER01\Desktop\C#\operatorler\operatorler\obj\Debug\operatorler.pdb
